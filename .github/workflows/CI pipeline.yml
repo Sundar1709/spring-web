@@ -16,5 +16,5 @@ jobs:
           java-version: '8'  # Adjust if needed
           distribution: 'adopt'
       - name: Build project with Maven
-        run: mvn -B package --file /demo/pom.xml
+        run: mvn -B package --file demo/pom.xml
 
