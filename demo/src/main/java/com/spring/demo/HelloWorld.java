@@ -1,4 +1,4 @@
-package com.spring.demo.bar;
+package com.spring.demo;
 
 import org.springframework.stereotype.Component;
 import org.springframework.web.bind.annotation.GetMapping;
