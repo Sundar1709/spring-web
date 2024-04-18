@@ -14,3 +14,4 @@ clone this reo to your local machine
 cd <directory- to -clone >
 to build docker image 
 docker build -t <your desired name> .
+Thank you
